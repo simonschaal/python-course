@@ -11,3 +11,5 @@ Now were getting started with Git.
 Weve done first git exerceises.
 
 James is doing notes about tigers!
+
+James is showing us how to revert.
